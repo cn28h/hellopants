@@ -1,0 +1,10 @@
+buildroot: /home/jovalko/pants
+timestamp: 1443540616.04
+datetime: Tuesday Sep 29, 2015 11:30:16
+machine: jovalko-laptop
+version: 0.0.50
+user: jovalko
+path: /home/jovalko/pants
+id: pants_run_2015_09_29_11_30_16_35_7499b692f1a342fbb446109c085304db
+cmd_line: pants hworld/
+default_report: /home/jovalko/pants/.pants.d/reports/pants_run_2015_09_29_11_30_16_35_7499b692f1a342fbb446109c085304db/html/build.html

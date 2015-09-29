@@ -1,0 +1,14 @@
+buildroot: /home/jovalko/pants
+timestamp: 1443540772.11
+datetime: Tuesday Sep 29, 2015 11:32:52
+machine: jovalko-laptop
+version: 0.0.50
+user: jovalko
+path: /home/jovalko/pants
+id: pants_run_2015_09_29_11_32_52_113_85574810964e4cefa2d85f2409f35118
+cmd_line: pants binary hworld
+default_report: /home/jovalko/pants/.pants.d/reports/pants_run_2015_09_29_11_32_52_113_85574810964e4cefa2d85f2409f35118/html/build.html
+tag: none
+branch: none
+revision: none
+outcome: FAILURE
